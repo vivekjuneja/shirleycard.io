@@ -1,7 +1,7 @@
 baseURL = 'https://vivekjuneja.github.io/shirleycard.io/'
 #publishDir= '/Users/vivekjuneja/projects/shirleycard.io/public/'
 languageCode = 'en-us'
-title = 'Shirley Card - An AI Toolkit for everyone'
+title = 'Shirley Card - An AI Toolkit for practitioners'
 theme = 'paper'
 
 #disqusShortname = ''   # use disqus comments
